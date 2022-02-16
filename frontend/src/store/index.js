@@ -1267,7 +1267,6 @@ const getters = {
   defaultGardenctlOptions (state) {
     return {
       legacyCommands: false,
-      shell: 'bash',
       ...get(state, 'cfg.gardenctl')
     }
   },

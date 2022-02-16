@@ -169,8 +169,7 @@ Object {
       "terminalEnabled": false,
     },
     "gardenctl": Object {
-      "legacyCommands": false,
-      "shell": "bash",
+      "legacyCommands": false
     },
     "helpMenuItems": Array [
       Object {
